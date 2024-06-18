@@ -245,7 +245,7 @@ dependencies = [
  "cargo_toml",
  "clap",
  "colored",
- "semver 1.0.4",
+ "semver 1.0.23",
  "serde",
  "serde_with",
  "shellexpand",
@@ -1752,9 +1752,9 @@ dependencies = [
 
 [[package]]
 name = "semver"
-version = "1.0.4"
+version = "1.0.23"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "568a8e6258aa33c13358f81fd834adb854c6f7c9468520910a9b1e8fac068012"
+checksum = "61697e0a1c7e512e84a621326239844a24d8207b4669b41bc18b32ea5cbf988b"
 
 [[package]]
 name = "semver-parser"
