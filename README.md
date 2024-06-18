@@ -9,10 +9,6 @@ This project is **deprecated** and no longer maintained, please use the [goki-cl
 
 # captain 🧑‍✈️
 
-[![Crates.io](https://img.shields.io/crates/v/captain?style=flat-square)](https://crates.io/crates/captain)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](https://github.com/saber-hq/captain/blob/master/LICENSE-APACHE)
-[![Build Status](https://img.shields.io/github/workflow/status/saber-hq/captain/CI/master?style=flat-square)](https://github.com/saber-hq/captain/actions/workflows/ci.yml?query=branch%3Amaster)
-[![Contributors](https://img.shields.io/github/contributors/saber-hq/captain?style=flat-square)](https://github.com/saber-hq/captain/graphs/contributors)
 
 Version control and key management for [Solana](https://solana.com/) programs.
 
@@ -86,11 +82,3 @@ This performs the following actions:
 - Writes a new program buffer
 - Replaces the existing program buffer with this new buffer using the upgrade authority
 - (WIP) If Anchor is installed, uploads the new IDL
-
-## Support
-
-For support, join the Saber Discord at [chat.saber.so](https://chat.saber.so)!
-
-## License
-
-Apache-2.0
