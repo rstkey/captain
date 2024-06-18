@@ -21,7 +21,7 @@ solana-sdk = "1.7.10"
 strum = "0.21.0"
 strum_macros = "0.21"
 tempfile = "3.2.0"
-toml = "0.5.8"
+toml = "0.7.6"
 
 [[bin]]
 name = "captain"
